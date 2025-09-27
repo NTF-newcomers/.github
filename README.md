@@ -1,3 +1,5 @@
+# .github
+
 [![nft](https://github.com/NTF-newcomers/.github/blob/main/newcumers_template_git.png?raw=true "nft")](https://github.com/NTF-newcomers/.github/blob/main/newcumers_template_git.png?raw=true "nft")
 
 ### NFT для новичков
